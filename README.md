@@ -1,6 +1,7 @@
 <-- **lavparker/lavparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Dosis&size=34&pause=1000&color=F79C98&width=435&lines=Hello+World!+I+am+La+Vinia+Parker." alt="Typing SVG" />
+</p>
 
 <p align="center">
   Welcome to my little slice of GitHub! 

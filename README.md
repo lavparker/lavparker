@@ -52,7 +52,7 @@ end
 ```
 
 <h2>Technologies I've worked with: </h2>
+<p>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML" /img> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS"/> <img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-ar21.svg" alt"Ruby"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt"React"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="Mongo DB" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt"AWS" /> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node JS" /> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="Heroku" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg" alt="Figma" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman" /> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" /> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" /> 
-
-
+</p>
 

@@ -8,7 +8,8 @@
 
 <h2>Contact me via any of the clickable links below!</h2>
 
-<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" href="https://www.linkedin.com/in/laviniaparker/"
+<p>
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" href="https://www.linkedin.com/in/laviniaparker/"
 target="_blank"
 alt="Linkedin Logo" />
 
@@ -17,6 +18,8 @@ alt="Linkedin Logo" />
 <img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" href="https://medium.com/@viniaparker" target="_blank" alt="Medium"/>
 
 <img src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg" href="https://wellfound.com/u/la-vinia-parker" target="_blank" alt="AngelList logo"/>
+</p>
+
 
 
 

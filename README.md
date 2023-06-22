@@ -3,7 +3,7 @@
 
 <-- **lavparker/lavparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Dosis&pause=1000&color=F79C98&width=435&lines=Hello+World!+I+am+La+Vinia+Parker./>
+<img src="https://readme-typing-svg.herokuapp.com?font=Dosis&pause=1000&color=F79C98&width=435&lines=Hello+World!+I+am+La+Vinia+Parker." />
 
 Here are some ideas to get you started:
 

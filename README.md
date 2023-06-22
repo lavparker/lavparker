@@ -41,4 +41,4 @@ end
 ```
 
 <h2>Technologies I've worked with: </h2>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"/>
+![JavaScript] <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript"/>

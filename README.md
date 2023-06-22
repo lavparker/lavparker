@@ -8,10 +8,9 @@
 
 <h2>Contact me via any of the clickable links below!</h2>
 
+
 <p>
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" href="https://www.linkedin.com/in/laviniaparker/"
-target="_blank"
-alt="Linkedin Logo" />
+ [LinkedIn] (https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg)(https://www.linkedin.com/in/laviniaparker/)
 
 <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" href="https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=" target="_blank" alt="Instagram Logo" />
 

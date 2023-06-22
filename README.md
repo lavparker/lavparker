@@ -40,4 +40,5 @@ class La Vinia < SoftwareEngineer
 end
 ```
 
-
+<h2>Technologies I've worked with: </h2>
+![JavaScript]

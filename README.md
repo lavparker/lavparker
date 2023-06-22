@@ -41,4 +41,4 @@ end
 ```
 
 <h2>Technologies I've worked with: </h2>
-![JavaScript]
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)

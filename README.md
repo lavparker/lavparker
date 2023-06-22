@@ -20,6 +20,7 @@ alt="Linkedin Logo" />
 <img src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg" href="https://wellfound.com/u/la-vinia-parker" target="_blank" alt="AngelList logo"/>
 </p>
 
+<h2>Check out my latest projects!</h2>
 
 
 

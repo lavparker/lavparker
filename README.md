@@ -11,6 +11,7 @@
 
 <p>
  [LinkedIn] (https://www.linkedin.com/in/laviniaparker/)
+[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg")](https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=)
 
 <img src="https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg" href="https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=" target="_blank" alt="Instagram Logo" />
 

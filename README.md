@@ -11,7 +11,7 @@
 
 <p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-hlaviniaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laviniaparker/)](https://www.linkedin.com/in/laviniaparker/)
+[![Linkedin Badge](https://img.shields.io/badge/-laviniaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laviniaparker/)](https://www.linkedin.com/in/laviniaparker/)
 
 [Instagram](https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=)
 

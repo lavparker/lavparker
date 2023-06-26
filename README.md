@@ -11,12 +11,7 @@
 
 <p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-laviniaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laviniaparker/)](https://www.linkedin.com/in/laviniaparker/)
-
-[Instagram](https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=)
-
-
-[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=)
+[![Linkedin Badge](https://img.shields.io/badge/-laviniaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laviniaparker/)](https://www.linkedin.com/in/laviniaparker/) [![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=)
 
 <img src="https://www.vectorlogo.zone/logos/medium/medium-ar21.svg" href="https://medium.com/@viniaparker" target="_blank" alt="Medium"/>
 

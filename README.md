@@ -10,7 +10,7 @@
 
 
 <p>
-[![Instagram](https://www.vectorlogo.zone/logos/instagram/instagram-ar21.svg)](https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=)
+[Instagram](https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=)
 
  
  [LinkedIn] (https://www.linkedin.com/in/laviniaparker/)

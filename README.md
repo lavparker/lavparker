@@ -17,7 +17,8 @@
 
 <h2>Check out my latest projects!</h2>
 
-
+[[Pop Eats] (https://lavparker.github.io/pop_eats_latest/) ]
+[[Allora] (https://allora.onrender.com)]
 
 <p align="center">
   A little about me in a language we all speak, code!

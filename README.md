@@ -18,7 +18,7 @@
 <h2>Check out my latest projects!</h2>
 
 <h3> :plate_with_cutlery:[Pop Eats](https://lavparker.github.io/pop_eats_latest/) 
-     :airplane:[Allora](https://allora.onrender.com) </h3>
+     &nbsp; :airplane:[Allora](https://allora.onrender.com) </h3>
 
 <p align="center">
   A little about me in a language we all speak, code!

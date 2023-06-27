@@ -11,7 +11,7 @@
 
 <p>
 
-[![Gmail Badge](https://img.shields.io/badge/-laviniaparker4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laviniaparker4@gmail.com)](mailto:laviniaparker4@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-laviniaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laviniaparker/)](https://www.linkedin.com/in/laviniaparker/) [![Medium Badge](https://img.shields.io/badge/-@viniaparker-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@viniaparker/)](https://medium.com/@viniaparker) [![AngelList Badge](https://img.shields.io/badge/la-vinia-parker-000000?style=for-the-badge&logo=AngelList&logoColor=white)](https://wellfound.com/u/la-vinia-parker)
+[![Gmail Badge](https://img.shields.io/badge/-laviniaparker4@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:laviniaparker4@gmail.com)](mailto:laviniaparker4@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-laviniaparker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laviniaparker/)](https://www.linkedin.com/in/laviniaparker/) [![Medium Badge](https://img.shields.io/badge/-@viniaparker-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@viniaparker/)](https://medium.com/@viniaparker) [![AngelList Badge](https://img.shields.io/badge/laviniaparker-000000?style=flat-square&logo=AngelList&logoColor=white)](https://wellfound.com/u/la-vinia-parker)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)(https://instagram.com/vinia.tech?igshid=YmMyMTA2M2Y=)
 
